@@ -1,2 +1,2 @@
 "Monitoring Tools" 
-"Prometheus" 
+"Grafana" 
